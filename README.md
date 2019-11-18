@@ -3,10 +3,11 @@
 
 # Description
 
-Movie scripts data loading and sentiment analysis.
+Movie scripts data loading, transformation and sentiment analysis.
+
 
 # Data & Methodology
 
-Data sourced from imsdb.com and analysed using the Python's NLKT sentiment package.
+Sourced from imsdb.com and analysed using the Python's NLKT sentiment package.
 
 More info at: https://imsdb.com
