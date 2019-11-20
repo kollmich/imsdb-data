@@ -3,31 +3,35 @@ import html5lib
 from bs4 import BeautifulSoup 
 import re
 
-movies_list = ['Collateral','Alien']
+first_list = ['Collateral','Alien']
+
+movies_list = [m.replace(' ', '-') for m in first_list]
+
+print(movies_list)
 
 movies = []
 
-class movie():
-    def __init__(self):
-        self.title = ""
-        self.rating = ""
-        self.authors = ""
-        self.genres = ""
-        self.date = ""
-
-    def __repr__(self):
-        return str(self)
-
 for i in movies_list:
 
-    URL_INFO = "https://www.imsdb.com/Movie%20Scripts/" + i + "%20Script.html"
-    URL_SCRIPT = "https://www.imsdb.com/scripts/" + i + ".html"
+    # INIT OBJECT
+    class movie(object):
+        def __init__(self):
+            self.title = ""
+            self.rating = ""
+            self.authors = ""
+            self.genres = ""
+            self.date = ""
 
+        def __repr__(self):
+            return str(self)
+
+    # SCRAPE AND LOAD SCRIPT INFO
+    URL_INFO = "https://www.imsdb.com/Movie%20Scripts/" + i + "%20Script.html"
     r = requests.get(URL_INFO) 
 
-    soup = BeautifulSoup(r.content, 'html5lib') 
+    soup_1 = BeautifulSoup(r.content, 'html5lib') 
 
-    script_details = soup.find('table', attrs = {'class':'script-details'})
+    script_details = soup_1.find('table', attrs = {'class':'script-details'})
 
     title = script_details.h1.text.replace(' Script', '')
     rating = script_details.tbody.contents[2].find(string="Average user rating").next_element.next_element.next_element.next_element.replace(' (','')[0:3]
@@ -59,10 +63,29 @@ for i in movies_list:
     movie.genres = genres
     movie.date = date
 
+    # SCRAPE AND LOAD SCRIPT TEXT
+    URL_SCRIPT = "https://www.imsdb.com/scripts/" + i + ".html"
+    rs = requests.get(URL_SCRIPT) 
+
+    soup_2 = BeautifulSoup(rs.content, 'html5lib')
+
+    script = soup_2.find('td', attrs = {'class':'scrtext'}).text.strip().replace("\n","")
+
+    movie.script = script
+
+    # APPEND MOVIE OBJECT
     movies.append(movie)
 
-    print(movie.title)
 
-for movie in movies:
-    print(movie.rating)
+# SAVE INTO SCV
+import csv
+with open('data.csv', 'w',) as csvfile:
+    writer = csv.writer(csvfile)
+    writer.writerow(['title', 'rating', 'authors', 'genres', 'date', 'script'])
+    for movie in movies:
+        writer.writerow([movie.title, movie.rating, movie.authors, movie.genres, movie.date, movie.script]) 
+
+
+
+
 
