@@ -3,16 +3,37 @@ import html5lib
 from bs4 import BeautifulSoup 
 import re
 
-first_list = ['Collateral','Alien']
+# GET LIST OF ALL OSCAR-WINNING MOVIES
+URL_ROTTEN_1 = "https://editorial.rottentomatoes.com/guide/oscars-best-and-worst-best-pictures/"
+#URL_ROTTEN_2 = "https://editorial.rottentomatoes.com/guide/oscars-best-and-worst-best-pictures/2/"
 
-movies_list = [m.replace(' ', '-') for m in first_list]
+rot_1 = requests.get(URL_ROTTEN_1) 
+#rot_2 = requests.get(URL_ROTTEN_2) 
+
+soup_01 = BeautifulSoup(rot_1.content, 'html5lib') 
+#soup_02 = BeautifulSoup(rot_2.content, 'html5lib') 
+
+movies_list = []
+
+divs_01 = soup_01.findAll('div', attrs = {'class':'article_movie_title'})
+for h2 in divs_01:
+    stripped = h2.a.text.strip()
+    movies_list.append(stripped)
+
+# divs_02 = soup_02.findAll('div', attrs = {'class':'article_movie_title'})
+# for h2 in divs_02:
+#     stripped = h2.a.text.strip()
+#     movies_list.append(stripped)
 
 print(movies_list)
 
 movies = []
 
 for i in movies_list:
+    i_info = i.replace(' ', '%20')
+    i_script = i.replace(' ', '-')
 
+    print(i)
     # INIT OBJECT
     class movie(object):
         def __init__(self):
@@ -26,8 +47,8 @@ for i in movies_list:
             return str(self)
 
     # SCRAPE AND LOAD SCRIPT INFO
-    URL_INFO = "https://www.imsdb.com/Movie%20Scripts/" + i + "%20Script.html"
-    r = requests.get(URL_INFO) 
+    URL_INFO = "https://www.imsdb.com/Movie%20Scripts/" + i_info + "%20Script.html"
+    r = requests.get(URL_INFO)
 
     soup_1 = BeautifulSoup(r.content, 'html5lib') 
 
@@ -64,7 +85,7 @@ for i in movies_list:
     movie.date = date
 
     # SCRAPE AND LOAD SCRIPT TEXT
-    URL_SCRIPT = "https://www.imsdb.com/scripts/" + i + ".html"
+    URL_SCRIPT = "https://www.imsdb.com/scripts/" + i_script + ".html"
     rs = requests.get(URL_SCRIPT) 
 
     soup_2 = BeautifulSoup(rs.content, 'html5lib')
@@ -76,7 +97,6 @@ for i in movies_list:
     # APPEND MOVIE OBJECT
     movies.append(movie)
 
-
 # SAVE INTO SCV
 import csv
 with open('data.csv', 'w',) as csvfile:
@@ -84,8 +104,4 @@ with open('data.csv', 'w',) as csvfile:
     writer.writerow(['title', 'rating', 'authors', 'genres', 'date', 'script'])
     for movie in movies:
         writer.writerow([movie.title, movie.rating, movie.authors, movie.genres, movie.date, movie.script]) 
-
-
-
-
 
