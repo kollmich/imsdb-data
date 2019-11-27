@@ -51,22 +51,25 @@ def get_movie_data(list):
     movie.actors = actors
     movie.director = director
 
-    i_script = movie.title.replace(' ', '-')
+    i_subtitle = movie.title.replace(' ', '-')
 
     # SCRAPE AND LOAD SCRIPT TEXT
-    URL_SCRIPT = "https://www.imsdb.com/scripts/" + i_script + ".html"
+    URL_SCRIPT = "https://www.imsdb.com/scripts/" + i_subtitle + ".html"
     rs = requests.get(URL_SCRIPT) 
     if rs.status_code == 200:
         soup_2 = BeautifulSoup(rs.content, 'html5lib')
-        if soup_2.find('td', attrs = {'class':'scrtext'}):
-            print("script_success")
-            script = soup_2.find('td', attrs = {'class':'scrtext'}).text.strip().replace("\n","")
+        if len(soup_2.find('td', attrs = {'class':'scrtext'}).get_text()) >= 1000:
+            print(movie.title,": script found")
+            script = soup_2.find('td', attrs = {'class':'scrtext'}).get_text().strip().replace("\n"," ")
             movie.script = script
             movies.append(movie)
         else:
-            print(movie, ": no script")
+            print(movie.title,": no script")
+            script = "MISSING SCRIPT"
+            movie.script = script
+            movies.append(movie)
     else:
-        print("url_failure")
+        print(movie.title,": url_failure")
 
 
 divs_01 = soup_01.findAll('div', attrs = {'class':'col-sm-18 col-full-xs countdown-item-content'})
@@ -87,8 +90,3 @@ with open('data.csv', 'w',) as csvfile:
     writer.writerow(['title', 'year', 'rating', 'actors', 'director', 'script'])
     for movie in movies:
         writer.writerow([movie.title, movie.year, movie.rating, movie.actors, movie.director, movie.script]) 
-
-
-
-
-
