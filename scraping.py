@@ -12,7 +12,7 @@ try:
     import shutil
     import time
     import zipfile
-    import srt_to_txt
+    import pysrt
 except: 
     print("Libraries not found.") 
     sys.exit()
@@ -112,45 +112,47 @@ def get_movie_data(list):
                     os.makedirs(dest)
                 f = zipfile.ZipFile(zip_file)
 
-
-                for file in f.namelist(): 
+                for file in f.namelist():
                     if file.endswith('.srt'): 
                         print('Extracting: ' + file)
-                        f.extract(file, path = 'subs') 
-                        time.sleep(2)
-                        # subs = '{}/{}.srt'.format(dest, movie.title)
+                        try:
+                            f.extract(file, path = 'subs') 
+                            subs = pysrt.open(os.path.join(dest, file), encoding='iso-8859-1')
+                            file_name = '{}/{}.txt'.format(dest, movie.title)
+                            try:
+                                os.remove(file_name)
+                            except:
+                                print("Error while deleting file ", file_name)
 
-                        # srt_to_txt.main(subs)
-                        """
-                        NOTES
-                        * Run from command line as
-                        ** python srt_to_txt.py file_name.srt cp1252
-                        * Creates file_name.txt with extracted text from file_name.srt 
-                        * Script assumes that lines beginning with lowercase letters or commas 
-                        * are part of the previous line and lines beginning with any other character
-                        * are new lines. This won't always be correct. 
-                        """
-
-                
-
+                            if subs:
+                                for sub in subs:
+                                    with open(file_name, 'a') as f:
+                                        #f.write("1\n")
+                                        #f.write("{0} --> {1}\n".format(start_new, end_new))
+                                        f.write(sub.text)
+                                        #movie.subtitles = sub_text
+                                with open(file_name) as fp:
+                                    subtitles = fp.read()
+                            else:
+                                print("Error while writing file ", file)                           
+                                subtitles = "no link"                                    
+                        except:
+                            print("Error while extracting file ", file)                           
+                            subtitles = "no link"        
+                    else:
+                        subtitles = "no link"
             else:
-                link_final = "no link"
-
+                subtitles = "no link"
         else:
-            link_final = "no link"
-        
+            subtitles = "no link"      
     else:
-        link_final = "no link"
+        subtitles = "no link"
 
+    movie.subtitles = subtitles
 
-    movie.link_final = link_final
-
-    print(movie.title, movie.year, movie.rating, movie.actors, movie.director, movie.link_final)
+    print(movie.title, movie.year, movie.rating, movie.actors, movie.director, movie.subtitles)
 
     movies.append(movie)
-
-
-
 
 divs_01 = soup_01.findAll('div', attrs = {'class':'col-sm-18 col-full-xs countdown-item-content'})
 for i in divs_01:
@@ -164,8 +166,12 @@ for i in divs_02:
 # SAVE INTO CSV
 import csv
 with open('data.csv', 'w',) as csvfile:
-    writer = csv.writer(csvfile)
-    writer.writerow(['title', 'year', 'rating', 'actors', 'director', 'script', 'link_final'])
+    writer = csv.writer(csvfile, delimiter=',')
+    writer.writerow(['title', 'year', 'rating', 'actors', 'director', 'script', 'subtitles'])
     for movie in movies:
-        writer.writerow([movie.title, movie.year, movie.rating, movie.actors, movie.director, movie.link_final]) 
+        writer.writerow([movie.title, movie.year, movie.rating, movie.actors, movie.director, movie.subtitles]) 
 
+
+for srt in os.scandir('{}/{}'.format(os.getcwd(), 'subs')):
+    if srt.name.endswith(".srt"):
+        os.unlink(srt.path)
