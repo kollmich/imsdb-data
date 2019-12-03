@@ -13,6 +13,7 @@ try:
     import time
     import zipfile
     import pysrt
+    import json
 except: 
     print("Libraries not found.") 
     sys.exit()
@@ -79,7 +80,7 @@ def get_movie_data(list):
     # Searches through a table of movies
     if soup_movie.find("h3", string = movie.title):
         link = soup_movie.find("h3", string = movie.title).find_parent("a").get("href") 
-        print(link)
+        #print(link)
         parse_obj = urlparse(movie_url) 
         url = parse_obj.scheme + "://" + parse_obj.netloc 
         sub_url = url + link 
@@ -92,7 +93,7 @@ def get_movie_data(list):
             yify = "https://www.yifysubtitles.com/"
             link_sub = soup_sub.find("span", string = "English").find_parent("tr").find("a", {"class":"subtitle-download"}).get("href")
             link_sub = yify + link_sub
-            print(link_sub)
+            #print(link_sub)
             sub_final = urllib.request.urlopen(link_sub).read() 
             soup_final = BeautifulSoup(sub_final, "html.parser") 
 
@@ -150,7 +151,7 @@ def get_movie_data(list):
 
     movie.subtitles = subtitles
 
-    print(movie.title, movie.year, movie.rating, movie.actors, movie.director, movie.subtitles)
+    #print(movie.title, movie.year, movie.rating, movie.actors, movie.director, movie.subtitles)
 
     movies.append(movie)
 
@@ -162,15 +163,23 @@ divs_02 = soup_02.findAll('div', attrs = {'class':'col-sm-18 col-full-xs countdo
 for i in divs_02:
     get_movie_data(movies)
 
+movies_json = [{"title": movie.title, "year": movie.year,
+                "rating": movie.rating, "actors": movie.actors,
+                "director": movie.director,"subtitles": movie.subtitles.replace("\n"," ")}
+                for movie in movies]
 
-# SAVE INTO CSV
-import csv
-with open('data.csv', 'w',) as csvfile:
-    writer = csv.writer(csvfile, delimiter=',')
-    writer.writerow(['title', 'year', 'rating', 'actors', 'director', 'script', 'subtitles'])
-    for movie in movies:
-        writer.writerow([movie.title, movie.year, movie.rating, movie.actors, movie.director, movie.subtitles]) 
+#print(json.dumps({"movie_info": movies_json}, indent=3))
 
+with open('data.txt', 'w') as outfile:
+    json.dump(movies_json, outfile)
+
+# # SAVE INTO CSV
+# import csv
+# with open('data.csv', 'w',) as csvfile:
+#     writer = csv.writer(csvfile, delimiter=',')
+#     writer.writerow(['title', 'year', 'rating', 'actors', 'director', 'subtitles'])
+#     for movie in movies:
+#         writer.writerow([movie.title, movie.year, movie.rating, movie.actors, movie.director, movie.subtitles]) 
 
 for srt in os.scandir('{}/{}'.format(os.getcwd(), 'subs')):
     if srt.name.endswith(".srt"):
