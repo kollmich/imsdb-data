@@ -170,8 +170,8 @@ movies_json = [{"title": movie.title, "year": movie.year,
 
 #print(json.dumps({"movie_info": movies_json}, indent=3))
 
-with open('data.txt', 'w') as outfile:
-    json.dump(movies_json, outfile)
+with open('data.json', 'w') as outfile:
+    json.dump({"movie_info": movies_json}, indent=3)
 
 # # SAVE INTO CSV
 # import csv
