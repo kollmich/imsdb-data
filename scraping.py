@@ -168,18 +168,8 @@ movies_json = [{"title": movie.title, "year": movie.year,
                 "director": movie.director,"subtitles": movie.subtitles.replace("\n"," ")}
                 for movie in movies]
 
-#print(json.dumps({"movie_info": movies_json}, indent=3))
-
-with open('data.json', 'w') as outfile:
-    json.dump({"movie_info": movies_json}, indent=3)
-
-# # SAVE INTO CSV
-# import csv
-# with open('data.csv', 'w',) as csvfile:
-#     writer = csv.writer(csvfile, delimiter=',')
-#     writer.writerow(['title', 'year', 'rating', 'actors', 'director', 'subtitles'])
-#     for movie in movies:
-#         writer.writerow([movie.title, movie.year, movie.rating, movie.actors, movie.director, movie.subtitles]) 
+with open('data.txt', 'w') as outfile:
+    json.dump(movies_json, outfile)
 
 for srt in os.scandir('{}/{}'.format(os.getcwd(), 'subs')):
     if srt.name.endswith(".srt"):
