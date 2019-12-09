@@ -18,7 +18,6 @@ except:
     print("Libraries not found.") 
     sys.exit()
 
-#timeout = 100
 
 # GET LIST OF ALL OSCAR-WINNING MOVIES
 URL_ROTTEN_1 = "https://editorial.rottentomatoes.com/guide/oscars-best-and-worst-best-pictures/"
@@ -165,7 +164,7 @@ for i in divs_02:
 
 movies_json = [{"title": movie.title, "year": movie.year,
                 "rating": movie.rating, "actors": movie.actors,
-                "director": movie.director,"subtitles": movie.subtitles.replace("\n"," ")}
+                "director": movie.director,"subtitles": movie.subtitles.replace("\n"," ").replace("."," ").lower()}
                 for movie in movies]
 
 with open('data.txt', 'w') as outfile:
