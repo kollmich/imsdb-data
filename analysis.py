@@ -2,13 +2,14 @@ import requests
 import html5lib
 from bs4 import BeautifulSoup 
 import json
-import re
 import nltk
+import re
 from nltk.tokenize import word_tokenize
 from nltk.corpus import brown
 from sklearn.feature_extraction.text import CountVectorizer
 from collections import Counter
-
+from nltk.corpus import stopwords
+import string
 
 # read file
 with open('data.txt', 'r') as myfile:
@@ -16,7 +17,7 @@ with open('data.txt', 'r') as myfile:
 
 vulgarities = []
 
-# GET LIST OF ALL OSCAR-WINNING MOVIES
+# GET A LIST OF ALL VULGAR WORDS
 URL_WIKTIONARY = "https://simple.wiktionary.org/wiki/Category:Vulgar"
 
 wiki = requests.get(URL_WIKTIONARY) 
@@ -28,17 +29,22 @@ for i in vulgarities_div:
     word = i.find('a').text
     vulgarities.append(word)
 
-print(vulgarities)
-
+# COUNT VULGAR WORDS IN SUBTITLES AND SAVE AS VULGAR_COUNT IN DATASET
 for index in range(len(data)):
     #for key in data[index]:
-    tokenized_word = word_tokenize(data[index]['subtitles'])
-    wordcounts = Counter(tokenized_word)
+    tokenized_subs = word_tokenize(data[index]['subtitles'])
+    wordcounts = Counter(tokenized_subs)
     vulgar_count = 0
     for j in vulgarities:
         vulgar_count += wordcounts[j]
 
-    print(data[index]['title']+' - vulgarities total: ' + str(vulgar_count))
+    data[index]['vulgarities_count'] = vulgar_count
 
+    stop_words = list(set(stopwords.words('english')))
+    def remove_stopwords(subs):
+        return [w for w in subs if w not in stop_words]
 
+    tokenized_subs = remove_stopwords(tokenized_subs)
+    data[index]['tokenized_subs'] = tokenized_subs
+    print(data[index]['tokenized_subs'])
 

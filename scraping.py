@@ -14,6 +14,7 @@ try:
     import zipfile
     import pysrt
     import json
+    import string
 except: 
     print("Libraries not found.") 
     sys.exit()
@@ -164,7 +165,7 @@ for i in divs_02:
 
 movies_json = [{"title": movie.title, "year": movie.year,
                 "rating": movie.rating, "actors": movie.actors,
-                "director": movie.director,"subtitles": movie.subtitles.replace("\n"," ").replace("."," ").lower()}
+                "director": movie.director,"subtitles": movie.subtitles.translate(str.maketrans('', '', string.punctuation)).replace("\n"," ").replace("."," ").lower()}
                 for movie in movies]
 
 with open('data.txt', 'w') as outfile:
