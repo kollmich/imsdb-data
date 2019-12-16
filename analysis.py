@@ -4,11 +4,13 @@ from bs4 import BeautifulSoup
 import json
 import nltk
 import re
+import matplotlib.pyplot as plt
 from nltk.tokenize import word_tokenize
 from nltk.corpus import brown
 from sklearn.feature_extraction.text import CountVectorizer
 from collections import Counter
 from nltk.corpus import stopwords
+from textblob import TextBlob
 import string
 
 # read file
@@ -39,6 +41,7 @@ for index in range(len(data)):
         vulgar_count += wordcounts[j]
 
     data[index]['vulgarities_count'] = vulgar_count
+    #print(data[index]['vulgarities_count'])
 
     stop_words = list(set(stopwords.words('english')))
     def remove_stopwords(subs):
@@ -46,5 +49,26 @@ for index in range(len(data)):
 
     tokenized_subs = remove_stopwords(tokenized_subs)
     data[index]['tokenized_subs'] = tokenized_subs
-    print(data[index]['tokenized_subs'])
 
+    analysis = TextBlob(data[index]['subtitles'])
+
+    data[index]['sentiment'] = analysis.sentiment[0]
+    data[index]['subjectivity'] = analysis.sentiment[1]
+
+movies_json = [{"title": data[index]['title'], "year": data[index]['year'], 
+                "rating": data[index]['rating'], "actors": data[index]['actors'], 
+                "director": data[index]['director'],"vulgarities": data[index]['vulgarities_count'], 
+                "sentiment": data[index]['sentiment'],"subjectivity": data[index]['subjectivity'] }
+                for index in range(len(data))]
+
+with open('data_sentiment.txt', 'w') as outfile:
+    json.dump(movies_json, outfile)
+
+    #CHART TOP 10 WORDS IN SUBS
+    # print(nltk.FreqDist(tokenized_subs))
+    # fig = plt.figure(figsize = (10,4))
+    # plt.gcf().subplots_adjust(bottom=0.15) # to avoid x-ticks cut-off
+    # fdist = nltk.FreqDist(tokenized_subs)
+    # fdist.plot(10, cumulative=False)
+    # plt.show()
+    # fig.savefig('freqDist.png', bbox_inches = "tight")
