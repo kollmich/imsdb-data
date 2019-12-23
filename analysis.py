@@ -14,7 +14,7 @@ from textblob import TextBlob
 import string
 
 # read file
-with open('data.txt', 'r') as myfile:
+with open('output/data.txt', 'r') as myfile:
     data = json.load(myfile)
 
 vulgarities = []
@@ -61,7 +61,7 @@ movies_json = [{"title": data[index]['title'], "year": data[index]['year'],
                 "sentiment": data[index]['sentiment'],"subjectivity": data[index]['subjectivity'] }
                 for index in range(len(data))]
 
-with open('data_sentiment.txt', 'w') as outfile:
+with open('output/data_sentiment.txt', 'w') as outfile:
     json.dump(movies_json, outfile)
 
     #CHART TOP 10 WORDS IN SUBS

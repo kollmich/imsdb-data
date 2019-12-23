@@ -168,7 +168,7 @@ movies_json = [{"title": movie.title, "year": movie.year,
                 "director": movie.director,"subtitles": movie.subtitles.translate(str.maketrans('', '', string.punctuation)).replace("\n"," ").replace("."," ").lower()}
                 for movie in movies]
 
-with open('data.txt', 'w') as outfile:
+with open('output/data.txt', 'w') as outfile:
     json.dump(movies_json, outfile)
 
 for srt in os.scandir('{}/{}'.format(os.getcwd(), 'subs')):
