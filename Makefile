@@ -5,7 +5,7 @@ clean-dir:
 	mkdir output
 
 copy-data:
-	cp output/data_sentiment.txt	/Users/michalkollar/Desktop/Coding/Dataviz/imsdb-web/src/assets/data/
+	cp output/data_sentiment.csv	/Users/michalkollar/Desktop/Coding/Dataviz/imsdb-web/src/assets/data/
 
 go:
 	make clean-dir

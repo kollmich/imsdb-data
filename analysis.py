@@ -12,6 +12,9 @@ from collections import Counter
 from nltk.corpus import stopwords
 from textblob import TextBlob
 import string
+import csv
+import json
+import pandas
 
 # read file
 with open('output/data.txt', 'r') as myfile:
@@ -61,14 +64,8 @@ movies_json = [{"title": data[index]['title'], "year": data[index]['year'],
                 "sentiment": data[index]['sentiment'],"subjectivity": data[index]['subjectivity'] }
                 for index in range(len(data))]
 
-with open('output/data_sentiment.txt', 'w') as outfile:
+with open('output/data_sentiment.json', 'w') as outfile:
     json.dump(movies_json, outfile)
 
-    #CHART TOP 10 WORDS IN SUBS
-    # print(nltk.FreqDist(tokenized_subs))
-    # fig = plt.figure(figsize = (10,4))
-    # plt.gcf().subplots_adjust(bottom=0.15) # to avoid x-ticks cut-off
-    # fdist = nltk.FreqDist(tokenized_subs)
-    # fdist.plot(10, cumulative=False)
-    # plt.show()
-    # fig.savefig('freqDist.png', bbox_inches = "tight")
+df = pandas.read_json('output/data_sentiment.json')
+df.to_csv('output/data_sentiment.csv', index = False)
