@@ -22,13 +22,13 @@ except:
 
 # GET LIST OF ALL OSCAR-WINNING MOVIES
 URL_ROTTEN_1 = "https://editorial.rottentomatoes.com/guide/oscars-best-and-worst-best-pictures/"
-URL_ROTTEN_2 = "https://editorial.rottentomatoes.com/guide/oscars-best-and-worst-best-pictures/2/"
+# URL_ROTTEN_2 = "https://editorial.rottentomatoes.com/guide/oscars-best-and-worst-best-pictures/2/"
 
 rot_1 = requests.get(URL_ROTTEN_1) 
-rot_2 = requests.get(URL_ROTTEN_2) 
+# rot_2 = requests.get(URL_ROTTEN_2) 
 
 soup_01 = BeautifulSoup(rot_1.content, 'html5lib') 
-soup_02 = BeautifulSoup(rot_2.content, 'html5lib') 
+# soup_02 = BeautifulSoup(rot_2.content, 'html5lib') 
 
 movies = []
 
@@ -159,9 +159,9 @@ divs_01 = soup_01.findAll('div', attrs = {'class':'col-sm-18 col-full-xs countdo
 for i in divs_01:
     get_movie_data(movies)
 
-divs_02 = soup_02.findAll('div', attrs = {'class':'col-sm-18 col-full-xs countdown-item-content'})
-for i in divs_02:
-    get_movie_data(movies)
+# divs_02 = soup_02.findAll('div', attrs = {'class':'col-sm-18 col-full-xs countdown-item-content'})
+# for i in divs_02:
+#     get_movie_data(movies)
 
 movies_json = [{"title": movie.title, "year": movie.year,
                 "rating": movie.rating, "actors": movie.actors,

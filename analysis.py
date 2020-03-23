@@ -3,6 +3,8 @@ import html5lib
 from bs4 import BeautifulSoup 
 import json
 import nltk
+nltk.download('punkt')
+nltk.download('stopwords')
 import re
 import matplotlib.pyplot as plt
 from nltk.tokenize import word_tokenize
