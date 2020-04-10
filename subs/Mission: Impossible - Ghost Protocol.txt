@@ -1,0 +1,447 @@
+<font color="#D900D9">(HIGH-PITCHED WHINE)</font><font color="#D900D9">(GROANS)</font><font color="#D900D9">(RUNNING FOOTSTEPS)</font><font color="#D900D9">(CELL PHONE BEEPING)</font><font color="#D900D9">(SILENCED GUNSHOTS)</font><font color="#D900D9">(SILENCED GUNSHOTS)</font><font color="#D900D9">(CLACKING)</font><font color="#D900D9">(CLACKING)</font><font color="#D900D9">(BUZZING)</font>
+<font color="#D900D9">(CELL DOOR CREAKING OPEN)</font><font color="#D900D9">(CLACKING CONTINUES)</font><font color="#D900D9">(PRISONER SPEAKING IN RUSSIAN)</font>Hey, how did you open your cell door?- Shh!
+- Hey! <font color="#D900D9">(SPEAKING IN RUSSIAN)</font>What are you doing?Open Sector 2!<font color="#D900D9">(BUZZING)</font><font color="#D900D9">(SPEAKING IN RUSSIAN)</font>How did you get out?Get back in your cell.<i>I told you, get back in your cell!</i>Let's give you a few friends to play with.<font color="#D900D9">(BUZZING)</font>
+<font color="#D900D9">(CELL DOOR CREAKING OPEN)</font><font color="#D900D9">(SHOUTING ON MONITOR)</font><font color="#D900D9">(SOFTLY)</font> Sorry.<font color="#D900D9">(WATER SLOSHING)</font><font color="#D900D9">(SPEAKING IN RUSSIAN)</font>Send some guards in.I'm trying.<font color="#D900D9">(TYPING)</font>
+<font color="#D900D9">(BEEPS)</font><font color="#D900D9">(BUZZING)</font>Okay, I'm set.
+How's things going down below?How do you think? I'm in a sewer.<font color="#D900D9">(SPEAKING IN RUSSIAN)</font>The doors won't open! We're locked in!Sound the alarm!<font color="#D900D9">(ALARM WAILS)</font><font color="#D900D9">(MEN SHOUTING)</font><font color="#D900D9">(SPEAKING IN RUSSIAN)</font>We've lost control!Captain!<font color="#D900D9">(FRANTIC CHATTER IN RUSSIAN)</font>I'm in position.Move to phase 2.<i><font color="#D900D9">(AIN'T THAT A KICK IN THE HEAD?</i>
+PLAYING OVER PA)</font><font color="#D900D9">(BUZZING)</font>
+<font color="#D900D9">(CELL DOOR CREAKING OPEN)</font><font color="#D900D9">(BUZZING)</font><font color="#D900D9">(SIGHS)</font><font color="#808080">BENJI:</font> <i>What are you doing?
+What are you doing?</i>What's wrong?
+What's happening, Benji?Oh, God.
+He's not going to the extraction point.Stay focused.
+He knows where he's going.<font color="#D900D9">(SONG CONTINUES PLAYING)</font>No, I'm not. I won't.
+I will not open that door.Please go to the extraction point, Ethan.
+I know.I know what this means, but I can't.
+I'm not authorized...Go to the extraction point, Ethan.Go to the extraction point!Oh, you're just going to wait.We're going to wait. Great. I can wait.<font color="#D900D9">(SPEAKING IN RUSSIAN)</font>Okay, fine. Fine! Fine!<font color="#D900D9">(BUZZING)</font>
+- There.We'll just screw
+the whole thing up on purpose.<font color="#D900D9">(GUARD SHOUTS IN RUSSIAN)</font>Uh, Jane? We're going
+to have a slight delay.<font color="#D900D9">(BUZZING)</font><font color="#808080">BENJI:</font> Why do you want to go in there?<font color="#D900D9">(SPEAKING IN RUSSIAN)</font>Bogdan!Bogdan!Sergei?Time to go!Now?Yes, now!I don't know what he's doing,
+and for some reason, I'm helping him.As long as he's where he should be
+when the song ends.<font color="#D900D9">(SONG CONTINUES PLAYING)</font>
+<font color="#D900D9">(WHISTLE BLASTS)</font>Uh, we have a passenger.<font color="#D900D9">(GROANING)</font><font color="#D900D9">(BUZZING)</font>Sergei!<i>Open all of them!</i><font color="#D900D9">(BUZZING)</font><font color="#D900D9">(URGING IN RUSSIAN)</font><font color="#D900D9">(SPEAKING IN RUSSIAN)</font>Oh God!Oh God oh God oh God...Sergei, please tell me
+there's more to this plan!<font color="#D900D9">(SONG ENDS)</font>
+<font color="#D900D9">(BEEPING)</font><font color="#D900D9">(PULSATING LOW-PITCHED TONE)</font><font color="#D900D9">(RUMBLING)</font><font color="#D900D9">(MACHINE POWERING DOWN)</font><font color="#D900D9">(WIND WHISTLES)</font><font color="#D900D9">(WHOOSHING)</font>Whoa!<font color="#D900D9">(SPEAKING IN RUSSIAN)</font>Let's go...Agent Hunt?And you are?Agent Carter.Okay.<font color="#808080">JANE:</font> Who's your pal?I'll tell you on the way!Light the fuse.<i><font color="#D900D9">(MISSION: IMPOSSIBLE
+THEME</i> PLAYING)</font><font color="#D900D9">(SIRENS WAILING)</font><font color="#D900D9">(SPEAKING IN RUSSIAN)</font>Sergei, what's going on?It's OK, Bogdan.I don't mean to bring up
+the elephant in the room,but what's with the big, hairy Russian?Who, Bogdan? He fed me intel. If I left
+him there, they would've killed him.So we're gonna give him his freedom.Did you call in the sweepers?On their way.Good, good.Uh, Benji, how is it you're here?Oh, I passed the field exam.Crazy, right?Yeah. Crazy.- DNA test.
+- It's me.<font color="#808080">JANE:</font> It's procedure.
+I'm just confirming it's you.<font color="#808080">ETHAN:</font> - You're very thorough.
+- Sergei?- Are you not Russian?
+<font color="#D900D9">(SPEAKING IN RUSSIAN)</font>Relax.Sweepers approaching! Brooms are out!<font color="#808080">ETHAN:</font> - Roger that.
+- Sergei.Are you not Sergei?<font color="#D900D9">(GROANING)</font>You'll be fine.Bogdan.I always take care of my friends.My friend.Messy bringing him along.I thought it went rather well.Mind telling me what you were doing
+in a Russian prison?Mind telling me why you broke me out?This wasn't a rescue mission?Uh, let me put it this way.If the Secretary wanted me out of there,it must be pretty bad out here.We were after a file.We lost it."We"? Who lost it? You?Agent Hanaway.Where's Hanaway?<font color="#808080">JANE:</font> <i>It was a letter drop.</i><i>Classified file.</i><i>It should have been a simple intercept.</i><i>We knew which train
+the courier was on.</i>Uh, ETA, two minutes on the courier.<i>But there was one thing we didn't know.</i>Bobcat, your train's six minutes out.<i>Who the courier was.</i><font color="#D900D9">(GROANS)</font><font color="#D900D9">(BONES CRUNCH)</font><font color="#D900D9">(STABBING)</font>It's now or never, Bobcat.The courier delivering the file,
+what's his name?<font color="#808080">MAN OVER RADIO:</font> <i>Go ahead. Shoot.</i>We are out of time.I need a name, folks.
+I can't track all these people at once.<font color="#D900D9">(MAN GROANING ON RADIO)</font><font color="#808080">MAN:</font> <i>Marek. Stefanski.
+For the love of God!</i><font color="#D900D9">(PANTS)</font> You got it?<font color="#808080">BENJI:</font> Marek Stefanski.Searching.<font color="#D900D9">(BEEPING)</font>I'll take it from here.Ow! Ow!Hey, you all right, buddy?<font color="#808080">JANE:</font> <i>Hanaway dropped the mark
+and grabbed his bag.</i>Sit down. Catch your breath.<font color="#808080">JANE:</font> <i>He had the file in his hands.
+Easy in, easy out.</i>File secured.<font color="#808080">JANE:</font> <i>But we weren't
+the only ones after it.</i>Bobcat, someone else
+has crashed this party.<font color="#D900D9">(SIGHS)</font>I'm not alone.<font color="#808080">JANE ON RADIO:</font> <i>Local police?</i><font color="#808080">HANAWAY:</font> No. Armed hostiles.<font color="#D900D9">(GROANS)</font>Hang tight, I'm coming!
+Outrigger, back him up.<font color="#808080">HANAWAY:</font> <i>Negative, Outrigger.</i><i>Rendezvous southwest corner,
+60 seconds.</i><font color="#808080">JANE:</font> <i>Hanaway's lens cam drew a facial
+match and triggered a warning.</i><font color="#D900D9">(CELL PHONE BEEPING)</font><font color="#D900D9">(SILENCED GUNSHOTS)</font><i>But it was too late.</i>No!You're going to be okay.You're so beautiful.<font color="#D900D9">(GRUNTS)</font>I'm sorry, I... I should have told you.<font color="#D900D9">(WHISPERING)</font><font color="#808080">JANE:</font> <i>It was my op.</i><i>I put him in the field.</i><i>And she left him
+just alive enough for me to see him die.</i>I'm sorry.You know her?That's Sabine Moreau. Contract killer.Works for diamonds.What was in the file?Russian nuclear launch codes.IMF's been looking for an emerging
+extremist, code name, Cobalt.He's determined to detonate
+a nuclear weapon however he can.We know Moreau's
+worked for him before.What else does IMF know about him?As much as you do now.But if Moreau has nuclear launch codes,you can bet Cobalt's gone
+from a person of interestto enemy number one.We're here.<font color="#D900D9">(ELECTRONIC TONE)</font><font color="#808080">FEMALE VOICE:</font> <i>Agent confirmed.</i>Why was he in prison?He disappeared after he and his wife...
+You know.I thought he'd just been transferred.
+Put on leave.There were rumors, though.
+Talk of an unsanctioned hit.<font color="#808080">MALE VOICE:</font> <i>Welcome back, Mr. Hunt.</i><i>In your absence,
+IMF has learned that Cobalt is or was</i><i>a level-1 nuclear strategist
+for Russian intelligence.</i><i>Therefore, the only way to uncover
+his actual identity</i><i>is to infiltrate the Kremlin itself.</i><i>In order to get past their checkpoints,</i><i>you'll be impersonating
+General Anatoly Fedorov.</i><i>We believe Cobalt
+will do everything he can</i><i>to destroy any record of his identity.</i><i>Your mission,
+should you choose to accept it,</i><i>is to penetrate the highly-secured
+archive inside the Kremlin</i><i>and retrieve Cobalt's file
+before he can destroy it.</i><i>New intel suggests Cobalt
+is already en route, leaving you...</i><font color="#808080">ELECTRONIC VOICE:</font>
+<i>...4 hours 52 minutes...</i><font color="#808080">MALE VOICE:</font> <i>...to infiltrate.</i><i>To save time,
+we've chosen your team for you.</i><i>Agents Carter and Dunn.</i><i>As always, should you or any member
+of your team be caught or killed,</i><i>the Secretary will disavow
+any knowledge of your actions.</i><i>This message
+will self-destruct in five seconds.</i><i>Good luck, Ethan.</i><font color="#D900D9">(HISSING)</font><font color="#808080">JANE:</font> What do you got?We're going into the Kremlin.<font color="#D900D9">(CHUCKLES)</font>I thought you said "The Kremlin."I thought you said "The Kremlin."Okay.<font color="#D900D9">(PEOPLE CHATTERING INDISTINCTLY)</font><font color="#D900D9">(WHISPERING)</font> This is very exciting.Being out in the field.With you, you know.It's a bit of a dream for me.Love your disguise, by the way
+You look just like him.It's a shame we're not wearing masks.
+You know, like, full masks.Everybody gets to
+wear a mask but Benji.Sorry.I'm tense. I babble when I'm nervous.I'm doing it again. Shut up, Benji.<font color="#D900D9">(LENS WHIRRING)</font>Okay, seven security guards.X-ray machines. Cameras.
+Metal detectors.Just what we expected. We can do this.<font color="#D900D9">(WHIRRING)</font>Releasing in three, two, one.<font color="#D900D9">(CLATTERING)</font><font color="#D900D9">(PULSATING TONE)</font><font color="#808080">BENJI:</font> <font color="#D900D9">(SOFTLY)</font> Game face,
+game face. Kremlin game face.Uh... <font color="#D900D9">(SPEAKING IN RUSSIAN)</font>General...I am Major Egorov.Your documents.<font color="#D900D9">(SPEAKING IN RUSSIAN)</font>You should know your boss.<font color="#D900D9">(BEEPING)</font><font color="#D900D9">(PULSATING TONE)</font><font color="#D900D9">(BEEPING CONTINUES)</font><font color="#D900D9">(ALL SPEAKING IN RUSSIAN)</font>I can't find you.Run it again......Private.Egorov.<font color="#D900D9">(BEEPS)</font>Excuse me, General. I didn't recognize you.You're going to regret this, Egorov.<font color="#D900D9">(BLOWS RASPBERRY)</font><font color="#D900D9">(EXHALES)</font><font color="#D900D9">(WHISPERING)</font>
+I think that went quite well.<font color="#D900D9">(BOTH SPEAKING IN RUSSIAN)</font>Just shut it.Sorry.<font color="#D900D9">(BEEPING)</font><font color="#D900D9">(PHONE RINGING)</font><font color="#D900D9">(CLEARS THROAT)</font><font color="#D900D9">(GUARD SPEAKING IN RUSSIAN)</font><font color="#D900D9">(SOFTLY)</font> It's going to work.I'm sorry, by the way.
+About you and Julia.You know, not working out.I wanted to say something
+before you went away, but...I liked her, you know.<font color="#D900D9">(RECEIVER CLICKS)</font>He's off the phone now.<font color="#D900D9">(CLICKING)</font>
+<font color="#D900D9">(DRIPPING SOUND ECHOES)</font><font color="#D900D9">(DRIP)</font><font color="#D900D9">(DRIP)</font><font color="#D900D9">(DRIP)</font>It's empty.The nest is empty.<font color="#D900D9">(CRACKLING OVER RADIO)</font><font color="#D900D9">(GROANS)</font><font color="#D900D9">(HEAVY BREATHING OVER RADIO)</font><font color="#D900D9">(CHOKING)</font><font color="#D900D9">(GRUNTS)</font>
+<font color="#D900D9">(NECK SNAPPING)</font>Check in, Team Leader.<font color="#808080">ON RADIO:</font> Over.<i>Repeat. Check in, Team Leader.</i>Have you made it to the Archive Room?<font color="#D900D9">(SPEAKING IN RUSSIAN)</font>Captain! The Archive Room!Run!<font color="#D900D9">(GASPS)</font><font color="#D900D9">(WHISPERING)</font> Someone is
+piggybacking our frequency.<font color="#D900D9">(SHUSHING)</font><font color="#808080">MAN ON RADIO:</font> Team Leader,awaiting your go-sign.
+Standing by to detonate.Abort.Rendezvous nine-two.<font color="#D900D9">(GUARD SPEAKING IN RUSSIAN)</font><font color="#D900D9">(BEEPING)</font><font color="#D900D9">(RAPID BEEPING)</font><font color="#D900D9">(ANXIOUS CHATTER IN RUSSIAN)</font><font color="#D900D9">(GUARD SHOUTS ORDERS
+IN RUSSIAN)</font><font color="#D900D9">(PANTING)</font><font color="#D900D9">(ORDERING IN RUSSIAN)</font>Shut the gate!Quickly!<font color="#D900D9">(RUMBLING)</font><font color="#D900D9">(PEOPLE GASPING)</font><font color="#D900D9">(PEOPLE SCREAMING)</font><font color="#D900D9">(YELPS)</font><font color="#D900D9">(INAUDIBLE)</font><font color="#D900D9">(VOICES ECHO FAINTLY)</font><font color="#D900D9">(HEART MONITOR BEEPING)</font><font color="#D900D9">(VOICES GETTING LOUDER)</font><font color="#D900D9">(MAN SPEAKING
+IN RUSSIAN ON TV)</font>Our media is no more
+truthful than yours,American.But we both know
+that the real cause of the explosionwas you.<font color="#808080">MAN ON RECORDING:</font>
+<i>Awaiting your go-sign, Team Leader.</i><i>Standing by to detonate.</i>The worst part for you,"Team Leader,"is I am the man assigned
+to make you suffer for it.For what you did to my country.<font color="#D900D9">(SPEAKING IN RUSSIAN)</font>This is a hospital...Not a night club.Misha... help me here...Room twelve.<font color="#D900D9">(SPEAKING IN RUSSIAN)</font>The doctors say he's lucky to be alive.Only a mild concussion.I don't give a damn about his health.I have questions that need answering.Be careful!Prepare a transport.Check over there!<font color="#D900D9">(BREATHING HEAVILY)</font>Not a good idea.It seemed like one a minute ago.<font color="#D900D9">(ENGINE STARTS)</font><font color="#D900D9">(GROANS)</font><font color="#D900D9">(DRIVER SHOUTS IN RUSSIAN)</font><font color="#D900D9">(SHOUTING IN RUSSIAN)</font>All agents! Hot target heading west!<font color="#D900D9">(SIRENS WAILING)</font><font color="#808080">WOMAN ON PHONE:</font>
+<i>Consolidated Insurance.</i><i>How may I help you?</i>SAT 20. Agent 82-Delta-Echo
+requesting immediate evac.Rendezvous Alpha 113.<i>Confirmed. Alpha 113.</i><font color="#D900D9">(CLANGING)</font><font color="#D900D9">(MAN SPEAKING
+IN RUSSIAN ON TV)</font><font color="#D900D9">(EXPLOSION)</font><font color="#808080">WOMAN ON TV:</font> <i>Details surrounding
+the intricate system of gas lines</i><i>that run beneath the square
+are still forthcoming,</i><i>but the majority of
+those lines date back to the Soviet era</i><i>and have not been updated in at least...</i><font color="#D900D9">(MAN SPEAKING IN RUSSIAN)</font>Anna... Anna... I've been thinking...It looks like we...<font color="#D900D9">(BOY SPEAKING IN RUSSIAN)</font>We should leave town
+for a couple of days.Alex, you, me. Vacations.- Now?
+- Tonight.<font color="#D900D9">(BOY SPEAKING IN RUSSIAN)</font><i>Why are you speaking in English?</i>Just...Just the three of us.<font color="#808080">WOMAN ON TV:</font> <i>...may not have been
+an accident, but a targeted attack.</i><i>Preliminary numbers are just starting...</i>Where will we go?<i>...to come in regarding
+those wounded in the blast.</i><i>We can confirm that 11 tourists...</i>Leonid?<i>...their nationalities still unconfirmed,</i><i>have been transported
+to area hospitals for treatment.</i><font color="#808080">MAN ON TV:</font> <i>While Russian officials
+continue to blame a gas-main break,</i><i>experts are citing the shape of the blast
+area and the size of the debris field</i><i>as more consistent
+with that of a set explosive,</i><i>leading to speculation
+that this may have been</i><i>an undeclared act of aggression.</i><i>Although the Defense Ministry
+is maintaining</i><i>that this is strictly an accident...</i>Anna, pack a bag for Alex.We're leaving now.Anya!Anya!<font color="#D900D9">(WEEPING)</font>We have work to do.<font color="#D900D9">(SIRENS WAILING)</font>Mr. Secretary.I wasn't aware you were in Russia.I'm not.
+Not since a bomb blew up the Kremlin.Yesterday I flew in
+to accept the Order of Friendshipfrom the Russian Prime Minister.Now I'm headed back to Washingtonto hand the President my resignation.My Chief Analyst, William Brandt.Do you have a pen?- Pardon me?
+- A pen.Yeah.Ethan, what happened in the Kremlin?Chief Analyst, you say?If you're implying that
+I made a bad call...European male.Fifties. About six-foot,
+180 pounds. Blue eyes.Who is he?A crude drawing,
+but by your description,that could be Kurt Hendricks.190 IQ. Served in
+Swedish Special Forces.Professor of physics,
+Stockholm University.Specialist in nuclear endgame theory.Asked to resign...Well, because he's crazy.Cobalt.You have to alert the Kremlin
+that one of their strategistshas a nuclear launch deviceand one of his operatives
+has the codes to activate it.And what makes you say that?I saw him<i>leaving the executive armory,
+bag in hand.</i>He set off that explosion
+to cover his tracks.It could be weeks
+before the Russians know it's missing.Unless we tell them.<font color="#808080">IMF SECRETARY:</font>
+They won't listen to us.As far as the Russians are concerned,
+we just bombed the Kremlin.The tension between
+the United States and Russiahasn't been this high
+since the Cuban Missile Crisis.And the blame, right or wrong,
+points to IMF.The President has initiated
+Ghost Protocol.The entire IMF has been disavowed.So what happens now?Now, I've been ordered
+to take you back to Washington,where the DOD will label you
+as a rogue extremistand hang the Kremlin bombing
+on you and your team.Unless,you were to escapesomewhere between here
+and the airport,having assaulted Mr. Brandt and me.Sir?You would thenillegally scrounge
+whatever material you couldfrom a backup supply cache
+that I've overlooked.The same cache where
+your team are waiting for further orders.Sir, you may want to...You will then disappear, and this
+conversation never having taken place,your intentions would be unclear.But if any one of your team
+is caught or killed,they will be branded terrorists,out to incite global nuclear war.Your mission,should you choose to accept it.<font color="#D900D9">(SIGHS)</font> Ethan, you were my best man.And I'm sorry it's come to this,after all the sacrifices you made.If we don't meet again,
+I just want you to know,I've always considered you a friend.<font color="#D900D9">(EXPLOSION)</font><font color="#D900D9">(GUNFIRE)</font>
+- Stay down! Drive, drive, drive!<font color="#D900D9">(TIRES SCREECH)</font><font color="#D900D9">(GRUNTING)</font><font color="#D900D9">(COUGHING)</font>You okay?<font color="#D900D9">(GRUNTS)</font> Yeah.Take a deep breath. Stay with me.- Ready?
+- Yeah.<font color="#D900D9">(GUNSHOTS)</font><font color="#D900D9">(GASPING)</font>What do we do?Wait here.Where else am I going to go?Hey! Hey, hey, hey!<font color="#D900D9">(SHOUTING IN RUSSIAN)</font><font color="#D900D9">(BOTH GASP)</font><font color="#D900D9">(ORDERING IN RUSSIAN)</font>Hold your fire! Hold your fire!Hold your fire!Hold your fire!Weapons down!What are you firing at?<font color="#D900D9">(OVERLAPPING CHATTER
+IN RUSSIAN)</font><font color="#D900D9">(SPEAKING IN RUSSIAN)</font>Two prisoners escaped
+from Rankow Prison today.And this one?...What do we know about <i>him?</i>Why would that work?Why would what work?The flare on the body,
+why would that work?It did work.- Yeah, I know, but...
+- Hey!But why? I mean, how did you know
+that would draw their fire?I didn't. I played a hunch.Okay. All right,
+so what was your scenario?Right, you...
+There's a guy being shot at in the water.All of a sudden, decides to light up
+a flare and swim around?I mean, what did you assume
+they'd be thinking?- Thinking?
+- Yeah.<font color="#D900D9">(CHUCKLES)</font> I didn't assume
+they were thinking.I assumed they were shooting
+at anything that moved.I just gave them a target.
+Look, these... <font color="#D900D9">(CHUCKLES)</font>These guys aren't
+Rhodes Scholars, you know?It's really happening, isn't it?- Yeah.
+<font color="#D900D9">(TRAIN HORN BLARES)</font>Okay, you know what that sound is?That's our ride out of here!All right, it's a green car. Number 47.I see green!Okay, let's do it.Go, go, go. Go!All right, 47.I don't see it.47.Oh, shit!Whoa! Ho!This is it. The manifest.<font color="#808080">FEMALE VOICE:</font> <i>Enter your code.</i>Pole!Ah! <font color="#D900D9">(PANTS)</font><font color="#D900D9">(BEEPING)</font><font color="#D900D9">(PANTS)</font> Jeez...<font color="#808080">FEMALE VOICE:</font> <i>Press enter.</i><font color="#D900D9">(WHIRRING)</font>Retinal scanner!Huh?<font color="#808080">FEMALE VOICE:</font> <i>Retinal scan required.</i>Watch out!<font color="#808080">FEMALE VOICE:</font> <i>Retinal scan required.</i><i>Agent confirmed.</i><font color="#D900D9">(BOTH PANTING)</font>Ethan? Jeez, I thought you were dead!- We are.
+- Who's this?Agents Dunn and Carter.
+William Brandt, Chief Analyst.Analyst?<font color="#808080">FEMALE VOICE:</font> <i>Agent confirmed.</i><font color="#D900D9">(MAN SPEAKING IN SWEDISH
+OVER HEADPHONES)</font><font color="#808080">FEMALE VOICE:</font> <font color="#D900D9">(TRANSLATING)</font>
+<i>How will the world finally end?</i><i>It is my job to predict the unthinkable.</i><i>To treat the death of billions as a game.</i><i>After 20 years of this, I was numb.</i><i>Until a new question crossed my mind.</i><i>What happens after
+the end of the world?</i>Are you sure your line is secure?<font color="#808080">FEMALE VOICE:</font>
+<i>Every two or three million years...</i>Are you certain your line is secure?<i>...some natural catastrophe
+devastates all life on Earth.</i><i>But life goes on.</i><i>And what little remains
+is made stronger.</i><i>Put simply,
+world destruction is an unpleasant,</i><i>but necessary part of evolution.</i><font color="#D900D9">(WHOOSHING)</font><i>What happens then, I wondered,</i><i>when mankind faces
+the next end of the world?</i>I don't care what you have to do
+to get him to Dubai.I'll make it worth his while. Just do it.<font color="#808080">FEMALE VOICE:</font>
+<i>I looked to Hiroshima, Nagasaki...</i>I'll be waiting for your call.<i>...thriving cities rebuilt from the ashes,</i><i>monuments to the unimaginable,</i><i>dedicated to the concept of peace.</i><i>It occurred to me here
+that nuclear war might have a place</i><i>in the natural order.</i><i>But only if it could be controlled.</i><i>Only if it touched
+every living soul equally.</i>IMF now believes this man,
+Kurt Hendricks,is the nuclear extremist,
+code name Cobalt.Today he was seen leaving the Kremlin,with what is likely
+a nuclear launch device.Two days ago, Sabine Moreau killed
+one of our agents in Budapestand relieved him
+of Russian nuclear launch codes.Intel indicates she will check into
+the Burj Hotel in Dubai in 36 hours.Marius Wistrom
+is a known operative of Cobalt.Wistrom is currently en route to Dubai.For the launch device to work,
+Cobalt needs the activation codes.He's sending Wistrom
+to buy them from Moreau.The Secretaryis dead.The President
+has invoked Ghost Protocol.We're shut down.No satellite, safe house,
+support, or extraction.The four of us
+and the contents of this carare all that remain of the IMF.And as of this moment, any action
+is unsanctioned. So if you want out,speak now.Our mission is Hendricks.We're all that stands
+between him and his goal.Nothing can be left to chance.Everyone connected with this manis considered an asset with valuable
+information about our target.No one can know we're still on line.We lose Hendricks now,
+we lose him forever.So, what's the play?Wistrom will take delivery from Moreau
+in 36 hours.Now we cannot let
+the launch codes leave the hotel,but we need Wistrom
+to lead us to Hendricks.He'll only do that if he has the codes.<font color="#808080">JANE:</font> Or if he thinks he has them.Our objective is to intercept the sale,replace the authentic
+codes with counterfeitsand follow Wistrom to Hendricks.Well, that's simple enough.We snatch the codes,
+we gin up some fakes.Jane, you double Moreau, and sell the
+codes to Wistrom and Bob's your uncle.And how do you propose
+we just snatch the codes from Moreau?We take her out.Yeah, we take her out.
+But, you know, discreetly.Discreetly?Yeah.Right, she's an asset. Right. I get it.
+Sorry. Nothing left to chance.He said... I'm spitballing.
+It's not all gonna be gold.- We don't touch Wistrom.
+<font color="#808080">BENJI:</font> - All right.Or Moreau.She'll answer for Hanaway,
+but it has to be when I say.After we hit Hendricks.<font color="#808080">ETHAN:</font> Only pack what we need.Yeah, absolutely. Only pack what we...
+You never know.<font color="#D900D9">(HORN HONKING)</font><font color="#808080">BRANDT:</font> So even if we can double
+Wistrom and Moreau,how do we keep them in separate roomswhile having them think that
+they're in the same room?<font color="#808080">ETHAN:</font> We give the hotel a facelift.Wistrom will think
+he's arriving at Moreau's suite,but, really, he'll be
+walking into our decoy room.Where I'll double Moreau.Downstairs, Benji will double Wistrom.Masks!And meet with the real Moreau.And, uh... <font color="#D900D9">(CHUCKLES)</font>What am I doing?You? You're the helper!<font color="#D900D9">(CHUCKLES)</font> Helper. That's great.Okay, so to the extent I understand
+what you're talking about here...The Burj Khalifa,
+it's the tallest building in the world,and you want to alter its infrastructurewith the hopes of convincing
+two people that they'vehad a meeting,
+which actually really never happened.Right?- Uh...
+<font color="#D900D9">(TIRES SCREECH)</font>Oh!<font color="#D900D9">(JANE GROANS)</font><font color="#D900D9">(LAUGHTER)</font>Camels.<font color="#808080">ETHAN ON RADIO:</font>
+<i>ETA on dry cleaning.</i>On my way up.Okay, 34 minutes to door knock.WOW, um... <font color="#D900D9">(CLEARS THROAT)</font>Okay, this is a slight wrinkle,
+but nothing to worry about.We're just going to have to go into
+the server room from the outside.What?Well, the firewalls on this building's
+server are military grade.I mean, this would be a cinchif I could call Youssef
+back at headquarters,but Youssef doesn't exist any more,
+and neither do we.I could hack it,
+but it would take too long.Then hardwire in.And there's four layers
+of next-gen securitybetween us and the server room.There's no way
+we can get to it from inside.If we can't get to the server,
+we don't control the elevators,we don't control the security cameras.This operation is over
+before it even begins.I'm telling you,
+we can get to it from outside."We"?I'm... I'm on the computer.I'm just, uh...The helper.What floor is it on?Oh, 130.130?- Vent ducts.
+- Pressure sensitive.Not enough time.- Elevator shaft.
+- Infrared sensors.Not enough time.How am I supposed to do this?<font color="#D900D9">(ELECTRICAL WHINE)</font><font color="#808080">BENJI:</font> God damn it!Oh, that's high.<font color="#D900D9">(HIGH-PITCHED WHINE)</font>Okay, now remember, it's a rolling off
+motion that disengages the bond.When the meter is blue,
+that's full adhesion.Easy way to remember, blue is glue.- And when it's red?
+- Dead.Here's your cutter, okay?
+And your server interface.Both going back here. One, two.Okay, Ethan, the hotel server is
+eleven stories up and seven units over.Okay? Comm check.Yeah. Copy.So...It's 26 minutes to door knock.Yeah.<font color="#D900D9">(WIND WHISTLES)</font><font color="#D900D9">(WIND HOWLS)</font><font color="#D900D9">(HIGH-PITCHED WHINE)</font><font color="#D900D9">(GASPS)</font><font color="#808080">BRANDT ON RADIO:</font>
+<i>25 minutes to door knock.</i><font color="#D900D9">(GRUNTING)</font>What the hell is that?<font color="#D900D9">(WIND HOWLS)</font><font color="#808080">ETHAN ON RADIO:</font>
+<i>Yeah, what the hell is that?</i><font color="#808080">BENJI:</font> It's a sandstorm.It's a long way off, Ethan.<i>Shouldn't be a problem.</i><i>24 minutes to door knock.</i>Where's Ethan?You've got to be kidding me.<font color="#D900D9">(GLOVE CRACKLING)</font><font color="#D900D9">(BEEPS)</font>
+<font color="#D900D9">(SQUEAKING)</font><font color="#D900D9">(GROANS)</font><font color="#D900D9">(HIGH-PITCHED WHINE)</font><font color="#D900D9">(BEEPING)</font>
+<font color="#D900D9">(SQUEAKING)</font><font color="#808080">BRANDT ON RADIO:</font>
+<i>23 minutes to door knock.</i><font color="#D900D9">(ELECTRICAL BUZZING)</font><font color="#D900D9">(CRACKLES)</font><font color="#D900D9">(HIGH-PITCHED WHINE)</font><font color="#808080">ETHAN:</font> <i>I'm at server level.</i><font color="#D900D9">(ELECTRICAL CRACKLING)</font><font color="#D900D9">(GROANING)</font>22 minutes to door knock.<font color="#D900D9">(PANTING)</font>The countdown is not helping.I'm just saying.<font color="#D900D9">(GRUNTS)</font><font color="#D900D9">(GROANS)</font><font color="#D900D9">(CRACKLING)</font><font color="#808080">ETHAN:</font> I'm in.That's great, Ethan.
+You're halfway home.<font color="#D900D9">(WHIRRING)</font><font color="#808080">ETHAN:</font> <i>Located server.</i><font color="#D900D9">(BEEPING)</font>Please tell me we're online.All right, we're live.Okay, I now have control of
+the elevators and the security cameras.Time to redecorate.Okay, you drive.
+And look out for Wistrom and Moreau.<font color="#D900D9">(WHIRRING)</font><font color="#808080">BRANDT:</font> Moreau is at the elevators
+ahead of schedule.Go.We can't open this door, can we?<font color="#808080">BRANDT:</font> <i>The door? No.</i>Ethan, you gotta get down here now.<i>Ethan!</i><i>Is there a problem? Ethan?</i>We're not gonna make it.We have to make it.Where's Ethan?<font color="#D900D9">(GRUNTS)</font>Your line's not long enough!No shit!<font color="#D900D9">(GROANS)</font><font color="#D900D9">(ALL GASP)</font><font color="#D900D9">(PANTING)</font><font color="#D900D9">(ALL PANTING)</font><font color="#D900D9">(SIGHS DEEPLY)</font>Whoo! <font color="#D900D9">(LAUGHS)</font>That was not easy,but I did it.<font color="#D900D9">(PANTING)</font> What'd I miss?<font color="#D900D9">(WIND HOWLING)</font><font color="#808080">JANE:</font> The lens might be
+a little uncomfortable.It captures images and transmits them
+to the printer in the briefcase.<font color="#D900D9">(GROANS)</font>- All right?
+- Mmm.I can't see out of one eye, but I'm fine.Blink twice to activate the shutter.Notice the numbers are in order?A perfect copy.But the numbers are scrambled.Masks?60 seconds.
+You sure I shouldn't wear a mask?You know,
+'cause I'm not exactly Omar Sharif.I'll play it French.
+This is your tracking device.- This is what you're tracking.
+- The paper clip?No, it's the paper.It's in the briefcase. It's coated with
+isotopes which give off a unique...It just means
+that you can track the documentseven if they switch briefcases.Range?Not that good. It's, like, half a mile.Safest thing to do would be not let
+Wistrom out of your sight.Is that Wistrom?Who's that with him?I don't know. We don't have an uplink,
+so there's no facial recognition.Who's that with him?That's Leonid Lisenker.
+Polish-born cryptographer.He redesigned Russia's nuclear
+security after the Cold War.He's here to authenticate
+the launch codes.- Yes, he is. We are blown.
+- No, we're not blown.Well, we will be as soon as he sees
+the counterfeit launch codes.We're not blown.<font color="#808080">BENJI:</font> He's in the elevator.<font color="#808080">ETHAN:</font> Delay them.<font color="#D900D9">(ELEVATOR STOPS)</font>Benji, how long would it take you
+to reprogram the case?A couple of seconds. What for, though?To make an exact copy
+of the launch codes.- What?
+- You can't do that.- Wistrom's on 22!
+- Slow him down.I'll do what I can.<font color="#D900D9">(ELEVATOR STOPS)</font>Wait, wait. Ethan, hang on now!Hang on. Just a second.You're talking about handing over active
+nuclear launch codes to Wistrom?Yes. Reprogram the case.Listen... Stop!Just listen to what you're saying.You're fixating.
+You're not thinking clearly.It's not gonna happen. I won't let it!33 and climbing!Brandt, use your head now.The mission is not the codes,
+the mission is Hendricks.Then just let it play out.
+Give him bad codes. Neutralize him.You know that won't do it.Failure to a terrorist
+is just a rehearsal for success.41!We lose Hendricks today,
+he shows up somewhere else tomorrow.He finds another way.With no IMF to stop him.No. It's now or never.
+Now, Brandt, give me the case.Nothing can be left to chance.
+You said that.You're the analyst.Now, tell me there's not another way
+for Hendricks to get those codes.<font color="#808080">BENJI:</font> 50!You tell me that this is his only avenue,
+right here, right now, today.You tell me that, I'll walk away.<font color="#D900D9">(HISSING)</font><font color="#D900D9">(BEEPING)</font><font color="#D900D9">(MOTOR STOPS)</font>
+<font color="#D900D9">(SIGHS)</font>- We go without.
+- Without masks?- Jane needs to go.
+- Ethan!We have no choice.Ethan, you'd be walking in
+on Moreau unarmed.Face-first. Literally.How do we know they've met?- How do we know they haven't?
+- Doesn't matter!Damn it.We have no choice.<font color="#D900D9">(SPRAY HISSES)</font><font color="#D900D9">(KNOCKING ON DOOR)</font>Goggles.What if they have met?<font color="#808080">JANE:</font> <font color="#D900D9">(IN FRENCH ACCENT)</font> Come in.<font color="#D900D9">(IN FRENCH ACCENT)</font>
+Which one of you is Wistrom?Which one of you is Wistrom?I am.I admire your work.Sit.Where are my codes?Where are my diamonds?Close by.You have my payment?When I see the codes.<font color="#D900D9">(KNOCKING ON DOOR)</font>Not to worry. Come in!I thought we could have tea.<i>Mademoiselle. Messieurs.</i>No diamonds, no codes.No codes, no diamonds.<font color="#D900D9">(SIGHS)</font>Kill this one.<font color="#808080">ETHAN:</font> We didn't come alone.That hallway out there is a kill-box.You know who we work for.We come back with the codes,
+or we don't come back.How good is your backup?The best.Hmm. <font color="#D900D9">(CHUCKLES)</font><font color="#808080">MOREAU ON RADIO:</font>
+<i>I've killed the best.</i><font color="#D900D9">(IN FRENCH ACCENT)</font>
+Do you care for some sugar?<font color="#808080">ETHAN ON RADIO:</font>
+<i>Enough. Let's get this done.</i>You want payment, I want guarantees.When he's authenticated the codes,I'll make the call
+and you get your diamonds.That orwe all go home in buckets.Nobody leaves this hotel alive.Get the papers.<font color="#808080">JANE:</font> Is there a problem?It's locked.<font color="#808080">JANE:</font> Ah, forgive me.
+There must be a key.One moment, huh?<font color="#D900D9">(CLEARS THROAT)</font> Messieurs.<font color="#D900D9">(CAMERA CLICKING)</font><font color="#D900D9">(CLEARS THROAT)</font><font color="#D900D9">(EXCLAIMS)</font> My mistake.
+It is a combination, not a key.You tell me the numbers.They're good.Zero.Zero.Zero.<font color="#D900D9">(VIBRATES)</font>Come on, come on, come on.<font color="#D900D9">(KNOCKING ON DOOR)</font><font color="#D900D9">(RATTLING)</font>It was a pleasure doing business with...Wistrom has the launch codes.
+He's on the move.Hey, I did as you asked. I did.
+Now let my family go!Release Leonid's family.<font color="#D900D9">(SIGHS)</font> Thank God.You can thank him in person.<font color="#D900D9">(SILENCED GUNSHOTS)</font><font color="#D900D9">(DIAMONDS RATTLE)</font><font color="#808080">MOREAU:</font> It was a pleasure
+doing business with you.<font color="#D900D9">(MOREAU ORDERING IN FRENCH)</font>Kill him!Moreau's on the move!I've got her.Jane?<i>She's an asset!</i>I need heralive!<font color="#808080">ETHAN:</font> <i>Acknowledge!</i>Acknowledge!<font color="#D900D9">(GUNSHOT)</font>Uh, Ethan, Wistrom is in the elevator.
+I can't see Leonid, though.<font color="#D900D9">(GROANS)</font>Benji, slow him down.
+Get me an elevator.<font color="#D900D9">(ELEVATOR STOPS)</font><font color="#D900D9">(BONES CRUNCH)</font>
+<font color="#D900D9">(GROANING)</font>Find Leonid.Benji, I've got a lock on Wistrom.
+But I can't tell.<i>Is he still in the elevator?</i><font color="#D900D9">(LINE DISTORTING)</font>Benn?<font color="#D900D9">(ELEVATOR STOPS)</font><font color="#D900D9">(ELEVATOR CHIMES)</font>Ethan. Over?Benji.<font color="#D900D9">(LINE DISTORTING)</font>
+- Benji, I lost...Ethan, can you hear me?Ethan, can you hear me? Over.<font color="#D900D9">(DOOR BANGS OPEN)</font>Jesus!Sit down!- Watch her.
+- Why me?Because if I do, I'll kill her.<font color="#D900D9">(GUN CLICKS)</font>Hold it, Team Leader.Did you really think
+I wouldn't catch up with you?You and I are not enemies.
+It was a set-up...We'll find out your lies soon enough.Move it!I'm sorry about this.<font color="#D900D9">(GASPS)</font>
+<font color="#D900D9">(PEOPLE SCREAMING)</font>Leonid. Benji?Go for Benji.I've got Leonid by the elevators.
+He's been shot.What?<font color="#D900D9">(THUDDING)</font><font color="#D900D9">(RIPPING)</font>Hey, hey. Stay with me. Stay with me.No, no, no, no, no, no, no, no, no, no,<font color="#D900D9">(FIRING)</font><font color="#808080">BRANDT:</font> Jane! No!<font color="#D900D9">(SCREAMS)</font><font color="#D900D9">(WIND WHISTLES)</font><font color="#D900D9">(PEOPLE SHOUTING)</font><font color="#D900D9">(LOW RUMBLING)</font><font color="#D900D9">(TIRES SCREECH)</font>
+<font color="#D900D9">(HORNS HONKING)</font><font color="#D900D9">(SAND HISSING)</font><font color="#D900D9">(WIND SURGES)</font><font color="#D900D9">(MEN SHOUTING IN ARABIC)</font><font color="#D900D9">(WOMEN EXCLAIM FEARFULLY)</font><font color="#D900D9">(WOMEN COUGHING)</font><font color="#D900D9">(DOG BARKING)</font><font color="#D900D9">(WIND HOWLS)</font><font color="#D900D9">(WHOOSH ES)</font><font color="#D900D9">(BREATHES HEAVILY)</font><font color="#D900D9">(BEEPING)</font><font color="#D900D9">(STEADY BEEPING)</font><font color="#D900D9">(BEEPING ACCELERATES RAPIDLY)</font><font color="#D900D9">(ETHAN GRUNTS)</font><font color="#D900D9">(TIRES SCREECH)</font><font color="#D900D9">(TIRES SCREECH)</font><font color="#D900D9">(EXCLAIMS)</font><font color="#D900D9">(BEEPING)</font><font color="#D900D9">(MAN SHOUTS IN ARABIC)</font><font color="#D900D9">(GRUNTS)</font>
+<font color="#D900D9">(BEEPING)</font><font color="#D900D9">(MUFFLED)</font> Come on. Come on.<font color="#D900D9">(MEN YELL IN ARABIC)</font><font color="#D900D9">(MEN SHOUT IN ARABIC)</font>
+<font color="#D900D9">(TIRES SQUEAL)</font><font color="#D900D9">(ENGINE ROARS)</font><font color="#D900D9">(BEEPING)</font><font color="#D900D9">(TIRES SCREECH)</font><font color="#D900D9">(HORNS HONKING)</font><font color="#D900D9">(TIRES SCREECH)</font><font color="#D900D9">(GROANS)</font><font color="#D900D9">(BEEPING ACCELERATES RAPIDLY)</font><font color="#D900D9">(GROANS)</font><font color="#D900D9">(CRASHING)</font><font color="#D900D9">(GRUNTING)</font><font color="#D900D9">(PANTS)</font><font color="#D900D9">(GRUNTS)</font><font color="#D900D9">(PANTING)</font>Now, what happened
+with Moreau, Jane?She couldn't help us with Hendricks.So let's throw her off the building!I didn't throw her.Let's throw her off the building!She was not the mission, Jane!The mission was to track the file
+back to Hendricks, who is in the windwith nuclear launch codes!<font color="#808080">JANE:</font> Maybe you didn't notice the gun
+she had pointed at me.<font color="#808080">BRANDT:</font> Yeah, like you didn't notice
+the open window,or that we're about a mile up in the air!<font color="#808080">JANE:</font> It was an instinctive move.<font color="#808080">BRANDT:</font> It doesn't matter!We're talking about a nuclear war.The asset is more important than you.<font color="#808080">JANE:</font> Where do you get off telling me
+how well I executed?- We inherited you.
+<font color="#D900D9">(PHONE VIBRATES)</font>You're just a bureaucrat!Better have good news for me.
+Is he here?<font color="#808080">JANE:</font> You think I need you to tell me
+what the mission is?Yeah, I got it. Dunhill lighter.
+I'll be there.And no one will be following me.Just make sure no one's following you.And how the hell
+did the Russians find us?- What are you asking me for?
+- Because you're communications!You're in charge of covering our tracks.<font color="#808080">BRANDT:</font> You cannot afford to
+make mistakes like that now, Benji.You're not a technician any more.
+You're a field agent.And you're just an "analyst."Right?Right?Who are you really, Brandt?- What are you asking?
+- What am I asking?Let me see if I can put it another way.How does an agent with skills like that
+end up an analyst?<font color="#D900D9">(MAGAZINE CLATTERS)</font>Well, we all have our secrets.Don't we, Ethan?You tell me yours, I'll tell you mine.<font color="#D900D9">(PHONE VIBRATES)</font>I have friends in the region.
+Just sit tight.I'll send someone to get you out of here.<font color="#808080">JANE:</font> What about Hendricks?
+What's the plan?The plan was for us
+to stop him together.<font color="#808080">BENJI:</font> Well, what are you going to do?Change the plan.<font color="#808080">JANE:</font> Wait. That's it?What are you going to do,
+go after him alone?Would you care to explain yourself,
+Agent Brandt?<font color="#D900D9">(OVERLAPPING CHATTER
+IN ARABIC)</font>I was on a protection detail in Croatia.Shadowing the assets,
+husband and wife.They were never supposed to know
+we were there.Whole thing's routine, it was a milk run.Three days inwe caught wind that a Serbian hit squad
+was after our couple.But my team had it under control.We knew they were coming.But I couldn't shake this feeling that I
+should warn the couple somehow.I wanted to find a way to let them know.But, you know, orders are orders,
+so I didn't.<font color="#D900D9">(SIGHS)</font>One day, the husband decides
+to leave the hotel and go for a run,so I follow him,
+and I leave two men with the wife.When I get back, my guys are
+unconscious and the wife is gone.Local police found her body
+three days later.What was left of her, anyway.That was my last day in the field.I couldn't face another
+life-or-death situation after that.So what happened to the husband?I never saw him again.Until two days ago in Moscow,when the Secretary
+introduced me to Ethan Hunt.No, that's not what happened.
+She left him.<font color="#808080">BRANDT:</font> Yeah, I heard that one,
+too, Benji.But, unfortunately, I was there.Just like I was there
+when the Secretary got the phone callthat Ethan was in custody for killing
+six Serbian nationals in cold blood.An unsanctioned hit.Yeah.Disavowed.<font color="#D900D9">(SIGHS)</font>The next thing I know,I'm on a plane to Dubai,wondering the whole time, do I tell him?How do I tell him?That I'm responsible.I could have warned him.I should have warned him.But I didn't.And she died.Sergei! Sergei, my friend!I told you I would get him here.
+Didn't I say?How do I know it's him?Yes, it's him.
+You trust me, I trust you. Right?This is the guy!This is the guy, the one I told you about.So we can take these things off.<font color="#D900D9">(RATTLES HANDCUFFS)</font>Sorry. He's a great guy,
+but he doesn't know you like I do.<font color="#808080">MAN:</font> So, you work for
+the American government.<font color="#808080">ETHAN:</font> And you're an arms dealer.<font color="#808080">BOGDAN:</font> No, no, no. Sergei. Sergei.He's "independent
+defense coordinator." Right?That you are. Very classy job.Listen. He's a friend.Those diamonds are for Bogdan.No, no. It's okay. You can have them.Whatever arrangements you made with
+my cousin is between you and him.You want something from me, you pay.You misunderstand.
+I'm not buying. I'm selling.You're selling. <font color="#D900D9">(CHUCKLES)</font>Selling what?The future.Yeah, I got all I need, thank you.<font color="#808080">ETHAN:</font> Our countries
+are on the brink of war.War is very good for business.Nuclear war?Go on.I'm looking for a man
+named Kurt Hendricks.You may know him as Cobalt.In either case,
+I think you know what he wants.I'll bet he even tried
+to buy it from you at some point.Go on.He has a case, he has codes.But they're worthless
+without a tactical satellite.I want to know where he'd get it.A man with information like that
+would be a potential terrorist.And to your government,a potential terrorist is a terrorist.If you help me,my friends become your friends.Sorry.I cannot help you.I certainly cannot tell you
+that Russia quietly soldan obsolete tactical satellite
+to a certain telecom in Mumbai.And whoever gave them that idea?<font color="#D900D9">(CHUCKLES)</font> An enterprising third party.Working on commission.Helping old friends. Making new ones.Can the satellite be shut down?That would take special skills,and you cannot do it alone.What's in the bags?It's our gear.How'd you get it?Made a friend.Well, I'm glad we could help.You could help now.Look, Ethan, before we...<font color="#808080">ETHAN:</font> Whatever happened, happened.We still have a chance to clean this up,
+but we have to do it now.And we have to do it together.Okay. So, where are we going?India.- India? India?
+- Sure.Okay. Great.Love the jet.Wait till you see the car.<font color="#D900D9">(CELL PHONE RINGS)</font><font color="#D900D9">(SPEAKING IN RUSSIAN)</font>Sidorov.<i>How have you been, old friend?</i>Oh, it's you.I've been busy with other things.<i>But I'll be after you again soon enough.</i><font color="#D900D9">(CHUCKLES)</font>I understand you're looking
+for an American...I am.You're also looking for a nuclear launch
+device stolen from the Kremlin two days ago.<i>You're also looking for a nuclear launch
+device stolen from the Kremlin two days ago.</i>I am?I can help you find both.If... we can come to an understanding.<font color="#808080">JANE:</font> Brij Nath.<font color="#808080">ETHAN:</font> Brij Nath. Playboy.
+Multimedia tycoon.On the surface,
+his entire network is state-of-the-art.But it's built on illegally acquired.Cold War cast-offs, including this,
+the Novosti satellite.Hendricks needs it
+to launch a nuclear strike,and we have to shut it down
+before he gets that chance.And to do that, we need to get
+the access code from him.One way or another.And if I don't,none of this works.You can do this.Yeah.A week ago, I would have believed you.I don't blame you for what happened.She took someone you cared about.
+That's not something you justlet go.Did it make you feel better?When you killed the men
+who killed your wife?We can't get them back.Okay, to shut down the satellite,we have to manually tap into
+the central server.You'll enter through the exhaust vent,
+wearing this under your suit.<font color="#D900D9">(ELECTRICAL HUM)</font>Drop down into the computer array,
+and I'll catch you,Then move you along the relay room
+and you jack into the panel.<font color="#D900D9">(HUM STOPS)</font>
+<font color="#D900D9">(SUIT CLATTERS)</font>Okay, so we enter the party
+separately as guests.Ethan quarterbacks while Jane...Gets the codes from the billionaire.I switch off the fan,
+you jump into the computer array,and I catch you,
+you plug in the transmitterthen Ethan feeds me the codes which I
+then use to pinpoint Hendricks' location.Okay, but you just breezed over
+something I think is really important.The computer array part, where I just...Jump?- And I catch you.
+- Yeah.I don't... Why is that so hard to grasp?Well...Why? It's a 25-foot drop.
+And we're using magnets.Yeah.In light of our recent efforts,
+the technology's...The science is sound. All right?I'd be more worried about the heat.And then there's that. What heat?Well, it's like any computer, isn't it?If you switch off the fan,
+it's gonna get really hot!<font color="#D900D9">(CHUCKLES)</font> Of course.Relatively, you know.Of course it will. So I'm jumping into a...Uh, an oven, essentially.Yeah. Essentially.But, um, I'll catch you.Great.<i>Aapka swagat hai, sir. Welcome, sir.</i><font color="#D900D9">(LIVELY CHATTER)</font>Comm check.Saturn's got your five-by-five, Jupiter.This is Pluto.I have arrived at the party.<font color="#D900D9">(LAUGHTER)</font>There he is.<font color="#D900D9">(TAKES DEEP BREATH)</font>Get us that code.Venus moving in on target.Hook's in.You do make an impression.<font color="#D900D9">(WHIRRING)</font>Why am I Pluto?<i>It's not even a planet any more.</i>Well, I think Uranus is available.<font color="#D900D9">(LAUGHS SARCASTICALLY)</font>
+It's funny 'cause you said "anus."<font color="#D900D9">(GRUNTS)</font>I'm in position.Sending in the Rover.He's moving to you.<i>Give him your back.</i><i>Don't want to make it too easy for him.</i>Are you gonna be talking
+the whole time?In 20 minutes, I want a glass of
+CuvÃ©e Louis in every guest's hand.And make sure all of them have a bottle
+to take home by the end of the night.Sure.Impressed yet?I'm more of a bourbon girl.I'm Brij Nath.Welcome to my humble home.<font color="#D900D9">(CELL PHONE RINGS)</font><font color="#D900D9">(SIGHS)</font><font color="#D900D9">(LOUD WHIRRING)</font><font color="#808080">BENJI ON RADIO:</font>
+<i>And Rover's in position.</i>Spinning down the turbine.<font color="#D900D9">(MOTOR WINDS DOWN)</font><font color="#D900D9">(SIGHS)</font><font color="#808080">ETHAN:</font> <i>He's e-mailing.</i>Venus. Be Venus.<i>Be Venus.</i>Husband?Boyfriend?More of aco-worker.Saturn, take the leap.<font color="#D900D9">(BREATH ES DEEPLY)</font>Okay. <font color="#D900D9">(CLEARS THROAT)</font><font color="#D900D9">(EXHALES)</font> Jumping.Jumping now. <font color="#D900D9">(GRUNTS)</font>Jump now?Yes. Commit. Jump.<font color="#808080">BRANDT:</font> - Jump.
+- Jump.- And I catch you.
+- Now.So, you're sure
+about this suit, right, Benji?Pretty sure.<font color="#D900D9">(LAUGHS NERVOUSLY)</font>
+Now you're pretty sure?Jump.<font color="#D900D9">(EXHALES)</font> Oh, God. All right.- Jump, <font color="#D900D9">(GROANS)</font>Jump!<font color="#D900D9">(SCREAMS)</font><font color="#D900D9">(CRUNCHING)</font>
+- Ow!<font color="#D900D9">(PEOPLE APPLAUDING)</font><font color="#D900D9">(DANCE MUSIC PLAYING)</font><font color="#808080">JANE ON RADIO:</font> <i>Jupiter, he's gone.</i>Did you jump?Should I not have jumped?Cause I jumped!Stand by.I'm playing a hunch.Don't hit me.<font color="#D900D9">(CELL PHONE RINGS)</font>Hello?My God, you are<i>a passionate creature.</i>I would like to show you
+my collection of art.I was waiting for you to ask.Then you have to find me.You're on.<font color="#808080">ETHAN:</font> I'm heading upstairs.<font color="#808080">BENJI ON RADIO:</font>
+<i>All right, now be careful,</i><i>because it's probably getting a bit hot.</i>
+<font color="#D900D9">(EXHALES)</font><i>We have to get to that satellite
+before Hendricks does.</i><font color="#808080">BRIJ ON PHONE:</font>
+<i>Look left. Look up.</i><i>I find your capricious passion intriguing.</i><i>Let me tell you one thing.
+He's not your type.</i><i>Completely not your type.
+He's completely cold. I'm hot.</i><i>Like all Indian men, I'm very hot.</i>Eight o'clock.<font color="#808080">BRIJ:</font> <i>Hot! Very hot.</i>He's at your eight o'clock.<font color="#808080">BRIJ:</font> <i>As you move towards me,
+you're getting hotter.</i>Whoa. Ow! Ah! Up, up! Up, up!Ah! Too much, too much, too much!I see you.I'd heard you have one of the finest
+private collections in the world.Well, at the very least, it's private.<font color="#D900D9">(EXHALES)</font>Saturn? How we doing
+in the relay room?In position.I see the satellite.Can I help you, gentlemen?I don't think so.<font color="#D900D9">(SILENCED GUNSHOTS)</font><font color="#D900D9">(PANTS)</font>Need those codes, guys.All originals from Chhatarpur District.You know, the Tantrics believethat the <i>Swadhisthana</i> chakra hides
+our most subconscious of desires.<font color="#D900D9">(GROANS)</font>Mmm.Uplink to satellite.
+Reboot to original military specs.Download the virus.<font color="#D900D9">(LOUD WHIRRING)</font>What the hell is that?What the hell is that?What the hell is what?It's going haywire!It's downloaded a virus
+from the satellite.Hendricks is killing the server<i>before we can kill the satellite.</i>Hendricks is reprogramming
+the satellite.<i>He's gonna have launch
+capability in five minutes!</i>- Something wrong?
+- No.Jane, you gotta move.
+We need that code.Finally we're alone.<font color="#D900D9">(HUMMING)</font>Venus, now's the time. Kick his ass<i>and get the code.</i>We are alone, aren't we?No one will interrupt us.Move and I break your neck.The override sequence
+for the relay station.Say it now or never speak again.<font color="#D900D9">(GROANS)</font>
+- The codes.<font color="#808080">BRIJ ON RADIO:</font> <i>46, 82,</i><i>93.</i><font color="#D900D9">(WHIRRING STOPS)</font>Benji, what happened?The system's crashed! We're too late.<font color="#808080">ETHAN:</font> <i>No, no, no.
+He's revealed himself.</i>Benji, can you pinpoint
+Hendricks' location?Uh, Hendricks is signaling
+out of a state-run.<i>TV station 6.7 miles from here.</i>Send me the coordinates.Good work, Brandt.
+Now get the hell out of there.Back me up!Jane, tie it off with Nath
+and meet me at the rally point.<font color="#D900D9">(GROANS)</font>
+<font color="#D900D9">(SPEAKING HINDI)</font>Sleep tight.Faster, Benji! Just straight through!<font color="#D900D9">(GROANS)</font>Wait! Stop!<font color="#808080">BRANDT:</font> <i>Take me through!</i><font color="#808080">BENJI:</font> <i>It's not responding! A little bit of
+patience would be appreciated!</i>I can't reach the top!More fan! More fan!<i>More fan!</i>There's nothing I can do! It's maxed out!<font color="#D900D9">(BEEPING)</font><font color="#D900D9">(GROANS)</font><font color="#808080">BENJI:</font> <i>Brandt?</i><i>Brandt?</i>Next time, I get to seduce the rich guy.Satellite weaponized and online.Upload the new authentication codes.Lock Russian Central Command
+out of the system.Isolate the sub.We'll fire just one missile,
+an apparent retaliation for the Kremlin.That should start the ball rolling.<font color="#808080">BENJI:</font> <i>I'm here, Ethan.</i>How long until Hendricks
+can launch a missile?Less than 30 seconds!We need another route.Turn left up ahead,
+take the alley on the right.<font color="#D900D9">(TIRES SCREECH)</font>
+<font color="#D900D9">(ENGINE REVS)</font>We have uplink.Ethan, Hendricks
+has started the launch sequence.How much time until missiles are flying?<i>Three minutes!</i><font color="#D900D9">(GASPS)</font>
+<font color="#D900D9">(MEN SHOUT)</font>We're three and a half minutes out.We can make it.We can make it.<font color="#D900D9">(RADIO CHATTER)</font>
+<font color="#D900D9">(SPEAKING IN RUSSIAN)</font>Captain...Connect to Central Command
+for launch verification.Right away.<font color="#D900D9">(SPEAKING IN RUSSIAN)</font>Proceed with Operation "Iron Fist".<i>Command to Launch is confirmed.</i>Cease all further communication.<i>Over and out.</i><font color="#808080">JANE:</font> Next left.<font color="#D900D9">(TIRES SCREECH)</font><font color="#D900D9">(TIRES SCREECH)</font><font color="#D900D9">(SPEAKING IN RUSSIAN)</font>Proceed.<font color="#D900D9">(SIGHS)</font>Ethan? We're too late.<i>The missile's in the air.</i><font color="#D900D9">(ENGINE REVVING)</font>There has to be a way
+to abort the warhead.If there is one,
+it'll be on the launch device.We're gonna get that case.<font color="#D900D9">(EXHALES)</font>May there be peace on Earth.<font color="#D900D9">(CAR APPROACHES)</font>Disable the relay.Get Wistrom! Inside, inside!<font color="#D900D9">(GROANS)</font><font color="#D900D9">(RUSTLING)</font>Wistrom destroyed the relay.Ethan went after Hendricks
+and the case, but...Doesn't matter if he has the case.
+We can't transmit the abort codes.Can you fix it?Uh, yeah... It's gonna be pointless
+if we don't have any power.Wistrom!<font color="#D900D9">(JANE GROANS)</font>- Jane!
+- I'm okay.No, you are not okay. She's hit.You stay here and cover Benji.Benji, get this thing rewired
+and back online. I'll get the power on.We can do this.<font color="#D900D9">(HELICOPTER WHIRRING)</font><font color="#D900D9">(HORNS HONKING)</font><font color="#D900D9">(BOTH PANTING)</font><font color="#D900D9">(CLANGING)</font>
+<font color="#D900D9">(GROANS)</font>Ow!Ow!<font color="#D900D9">(GROANS)</font><font color="#D900D9">(PANTS)</font><font color="#D900D9">(GROANS)</font>I'm taking that briefcase!No! No!<font color="#D900D9">(PANTING)</font><font color="#D900D9">(ENGINE STARTS)</font><font color="#D900D9">(GROANS)</font><font color="#808080">BENJI:</font> He's been gone too long.Damn it! Listen.When the power comes on,
+these two drives go into this bay, okay?<font color="#D900D9">(GROANS)</font>Mission accomplished!<font color="#D900D9">(STRAINING)</font><font color="#D900D9">(GUNSHOT)</font><font color="#D900D9">(GRUNTS)</font><font color="#D900D9">(GRUNTS)</font><font color="#D900D9">(MAN SHOUTS IN RUSSIAN)</font>Don't touch him!This one is mine.So, we are not enemies.The phone call
+from that arms dealer in Dubai.You wanted me to find you.How else to believe this?Hospital?<font color="#808080">WOMAN ON TV:</font>
+<i>And in other news, eight weeks later,</i><i>the debate continues.</i><i>Eyewitnesses remain adamant
+that the object was some sort of aircraft,</i><i>but officials with the Department of
+Defense insist it was simply a meteor</i><i>large enough to be
+visible during daylight.</i>You actually said that.Out loud."Mission accomplished."I said it.You're still corny, Ethan.I can't imagine
+the look on that guy's face.- Hey.
+- This must be them.Luther Stickell,
+the firm of Carter, Dunn and Brandt.I blew an entire weekend
+on the bottom of the San Francisco Bayno thanks to you clowns.No, man, you know I got this.I know. I'll see you in Kandahar.Thanks for meeting me.So, I hear the insurance
+company's refusingto pay the claim
+on that car you crashed, Ethan.Something about intentional 100-meter
+vertical drops not being covered.Go figure.<font color="#D900D9">(ALL CHUCKLE)</font>How's the leg?Still working.You?Heaf ing.I'm fine, by the way.I mean, I'm not actually sleeping, per se.You know. Cold sweats.
+Middle of the night.All these people
+are just happy and smilingand they are completely
+oblivious to the factthat they were almost vaporized.And if it hadn't been for...Dumb luck?<font color="#808080">ETHAN:</font> Was it?I mean, look,
+we were unprepared, in the dark.Disavowed.And the only thing
+that functioned properlyon that missionwas this team.I don't know how we ended up together,but I'm glad we did.Your missions.Choose to accept them.Hey, look, I'm in.Seriously. It's not as if any missionis gonna be rougher
+than the last one, is it?<font color="#D900D9">(GIGGLES)</font> I mean, that's just...Bomb... Is it?<font color="#D900D9">(ALL LAUGH)</font>Thanks, Ethan.Thank you.Agent Hunt.Agent Carter.Brandt.I'm not picking up that phone, Ethan,because I don't think
+you want me in the field.I know your wife is dead.I was there in Croatia.I was there for one reason.One.And I failed.It was my job to protect her.How do you know she's dead?There was a body.Did you see it?You killed those Serbians.I had to get her back.You were sent to Rankow Prison.That was a sacrifice
+I was willing to make.IMF suspected Hendricks
+had people in Rankow.And six dead Serbians
+was the ideal cover.Waste not, want not.<font color="#D900D9">(SIGHS)</font><font color="#D900D9">(CHUCKLES)</font>The Secretary never told me.I accepted the Rankow Prison mission
+on one condition:That no one could know
+she was still alive.But you're telling me.<font color="#D900D9">(CHUCKLES)</font>When did you find out
+that I was in Croatia?I pulled your file after India.Right.So you had to fake your wife's death.As long as we were together,
+she could never be safe.It wasn't your job to protect her, Brandt.It's mine.Okay.So we're good.We're good.<font color="#D900D9">(COINS CLATTERING)</font><font color="#808080">MAN:</font> Come on! <font color="#D900D9">(TSKS)</font><font color="#808080">MAN ON HEADPHONES:</font>
+<i>Good evening, Mr. Hunt.</i><i>36 hours ago, there was a breach
+in our military's communication network.</i><i>Now, an emerging terror
+organization known as The Syndicate</i><i>has control of our entire drone fleet.
+Their targets: Unknown.</i><i>Your mission,
+should you choose to accept it...</i>

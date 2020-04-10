@@ -19,8 +19,6 @@ import pandas as pd
 # read file
 with open('output/data.txt', 'r') as myfile:
     data = json.load(myfile)
-
-
 # GET LIST OF VULGAR WORDS FROM WIKIPEDIA
 # vulgarities = []
 # URL_WIKTIONARY = "https://simple.wiktionary.org/wiki/Category:Vulgar"
@@ -69,10 +67,14 @@ for index in range(len(data)):
 
 datax=[]
 for index in range(len(data)):
-    title = {"title": data[index]['title'], "year": data[index]['year'], 
-                "rating": data[index]['rating'], "actors": data[index]['actors'], 
-                "director": data[index]['director'],"vulgarities": data[index]['vulgarities_count'], 
-                "sentiment": data[index]['sentiment'],"subjectivity": data[index]['subjectivity'] }
+    title = {"title": data[index]['title'], 
+            "year": data[index]['year'], 
+            "rating": data[index]['rating'],
+            #"actors": data[index]['actors'], 
+            # "director": data[index]['director'],
+            "vulgarities": data[index]['vulgarities_count'], 
+            "sentiment": data[index]['sentiment'],
+            "subjectivity": data[index]['subjectivity'] }
     for j in vulgarities:
         title[j] =  data[index][j] 
     datax.append(title)
@@ -83,4 +85,9 @@ df = pd.read_json(movies_json)
 df = df.drop(['fucker', 'fucking', 'fucked', 'nigga', 'shittier', 'shittiest', 'shitty', 'dickhead'], axis=1)
 df['year'] = pd.to_datetime(df['year'].astype(str) + "01" + "01", format='%Y%m%d')
 df.sort_values(by='year', ascending=True, inplace=True)
+print(df)
 df.to_csv('output/data_sentiment.csv', index = False)
+
+
+
+
