@@ -84,10 +84,41 @@ movies_json=json.dumps(datax)
 df = pd.read_json(movies_json)
 df = df.drop(['fucker', 'fucking', 'fucked', 'nigga', 'shittier', 'shittiest', 'shitty', 'dickhead'], axis=1)
 df['year'] = pd.to_datetime(df['year'].astype(str) + "01" + "01", format='%Y%m%d')
+#REMOVE DUPLICATES
+df.drop_duplicates(keep='first', inplace=True) 
+#SORT BY YEAR
 df.sort_values(by='year', ascending=True, inplace=True)
 print(df)
 df.to_csv('output/data_sentiment.csv', index = False)
 
+aggregates = df.groupby('year').agg(
+        movies_count = pd.NamedAgg(column='title',aggfunc='count'),
+        vulgarities = pd.NamedAgg(column='vulgarities',aggfunc=sum),
+        asshole = pd.NamedAgg(column='asshole',aggfunc=sum),
+        bastard = pd.NamedAgg(column='bastard',aggfunc=sum),
+        bitch = pd.NamedAgg(column='bitch',aggfunc=sum),
+        cunt = pd.NamedAgg(column='cunt',aggfunc=sum),
+        dick = pd.NamedAgg(column='dick',aggfunc=sum),
+        faggot = pd.NamedAgg(column='faggot',aggfunc=sum),
+        fuck = pd.NamedAgg(column='fuck',aggfunc=sum),
+        nigger = pd.NamedAgg(column='nigger',aggfunc=sum),
+        shit = pd.NamedAgg(column='shit',aggfunc=sum),
+        slut = pd.NamedAgg(column='slut',aggfunc=sum),
+)
+
+aggregates['vulgarities_rel'] = aggregates['vulgarities'] / aggregates['movies_count']
+aggregates['asshole_rel'] = aggregates['asshole'] / aggregates['movies_count']
+aggregates['bastard_rel'] = aggregates['bastard'] / aggregates['movies_count']
+aggregates['bitch_rel'] = aggregates['bitch'] / aggregates['movies_count']
+aggregates['cunt_rel'] = aggregates['cunt'] / aggregates['movies_count']
+aggregates['dick_rel'] = aggregates['dick'] / aggregates['movies_count']
+aggregates['faggot_rel'] = aggregates['faggot'] / aggregates['movies_count']
+aggregates['fuck_rel'] = aggregates['fuck'] / aggregates['movies_count']
+aggregates['nigger_rel'] = aggregates['nigger'] / aggregates['movies_count']
+aggregates['shit_rel'] = aggregates['shit'] / aggregates['movies_count']
+aggregates['slut_rel'] = aggregates['slut'] / aggregates['movies_count']
+
+aggregates.round(3).to_csv('output/data_aggs.csv', index = True)
 
 
 
