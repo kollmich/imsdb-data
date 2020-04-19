@@ -197,7 +197,7 @@ movies_json = [{"title": movie.title,
                 "rating": movie.rating,
                 #"actors": movie.actors,
                 #"director": movie.director,
-                "subtitles": movie.subtitles.translate(str.maketrans('', '', string.punctuation)).replace("\n"," ").replace("."," ").lower()}
+                "subtitles": movie.subtitles.translate(str.maketrans('', '', string.punctuation)).replace("\n"," ").replace("."," ").replace("Dick","Dick(name)").lower()}
                 for movie in movies]
 
 with open('output/data.txt', 'w') as outfile:
